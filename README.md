@@ -1,5 +1,5 @@
 # 💫 About Me:
-  I am Shuaib Asghar Mern Stack developer @DEVAXL. <br><br>  I have exprience in UI/UX by using Figma.<br><br> 🌱 I’m currently working on web base ecommerce applications.<br><br>  I’m currently learning to enhance my skills in advance website development.<br><br> ❓ Ask me about anything related to MERN stack and related technologies<br><br> ⚡ Fun fact: I use tabs over spaces
+  I am Shuaib Asghar Mern Stack developer with interest in DevOps and AI . <br><br>  I have exprience in UI/UX by using Figma.<br><br>  I’m currently learning to enhance my skills in  advance website development.<br><br> ❓ Ask me about anything related to MERN stack and related technologies<br><br> ⚡ Fun fact: I use tabs over space
 
 
 # 💻 Tech Stack:
